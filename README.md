@@ -17,8 +17,8 @@ Its principle algorithm is based on the Ristad and Yianilos (1998) stochastic tr
   month   =  {May}
 }
 
-Tarek Sherif originally proposed this algorithm as a part of his Mater thesis graduated in 2007 from University of Alberta. 
-I later reimplemented this algorithm to the first version of m2m-aligner based on the paper we published together at 
+Tarek Sherif originally proposed this algorithm as a part of his Master's thesis, and graduated in 2007 from University of Alberta. 
+Sittichai Jiampojamarn later reimplemented this algorithm as the first version of m2m-aligner based on the paper published at 
 NAACL 2007. Since then, many refinements, improvements, and features have been included for later tasks. 
 
 You are welcome to use the code for research, commercial, and other purposes; however, please acknowledge its use with a citation to: 
